@@ -16,3 +16,5 @@ GraphQL脚手架工具Amur：https://github.com/zhangkaiyulw/amur
 ## 参考
 - GraphQL服务器apollo-server：https://github.com/apollographql/apollo-server
 - https://github.com/chentsulin/awesome-graphql
+
+- http://graphql.cn/
