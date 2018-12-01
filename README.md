@@ -17,5 +17,7 @@ GraphQL脚手架工具Amur：https://github.com/zhangkaiyulw/amur
 - [GraphQL服务器apollo-server](https://github.com/apollographql/apollo-server)
 - [awesome-graphql](https://github.com/chentsulin/awesome-graphql)
 
+- [GitHub GraphQL API ](https://developer.github.com/v4/explorer/)
+
 - [GraphQL 入门](http://graphql.cn/)
 - [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/basics/1-graphql-is-the-better-rest/)
