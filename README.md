@@ -21,3 +21,4 @@ GraphQL脚手架工具Amur：https://github.com/zhangkaiyulw/amur
 
 - [GraphQL 入门](http://graphql.cn/)
 - [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/basics/1-graphql-is-the-better-rest/)
+- [社区资源](http://graphql.cn/community/#%E5%8D%9A%E5%AE%A2)
